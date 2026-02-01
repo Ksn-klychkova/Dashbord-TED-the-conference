@@ -1,10 +1,6 @@
 # Dashbord-TED-the-conference
 Дашборд аналитика конференций TED по миру
-# Dashboard-for-an-analytical-agency
-Дашборд для компании, организующей первую конференцию TED по лицензии
-
-[**Ссылка на дашборд в DataLens**](https://datalens.yandex/ieul791uelxk4)
-
+https://datalens.yandex/ofth1tg3l2088 - ссылка на дашборд ДатаЛэнс
 ---
 
 ### Бизнес-контекст задачи
